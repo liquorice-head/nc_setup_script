@@ -1,0 +1,1 @@
+# nc_setup_script
